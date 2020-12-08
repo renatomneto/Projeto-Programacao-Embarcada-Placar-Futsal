@@ -28,3 +28,6 @@ Com orientação dos Professores [Otávio Gomes](https://github.com/osmgomes) e 
 - Para saber mais sobre como desenhar no LCD acesse o [Relatório](Relatorio.md).
 - Os códigos referentes aos desenhos presentes podem ser conferidos nos diretório do repositório, na pasta [Logos](Logos).
 
+## Agradecimeto
+
+Este projeto foi realizado para concluir a disciplina de Programação Embarcarda e gostaria de deixar meus sinceros agradecimentos à disposição dos professores Otávio Gomes e Rodrigo Almeida em ajudar e dar suporte durante o processo de desenvolvimento de todo o projeto. 
