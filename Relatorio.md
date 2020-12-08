@@ -1,7 +1,7 @@
 # Placar de Futsal feito para PICgenios com PIC18F4520 utilizando o simulador PicsimLab
 O projeto consiste em um Placar Eletrônico para Futsal, onde o tempo é exibido em um display de 7 segmentos e todas as informações da partida exibidas no display LCD, e as funções do placar seriam controladas pelo teclado matricial da placa.
 
-Neste projeto foram utilizados os softwares MPLAB X IDE v5.40, com o compilador XC8 v2.20 e o simulador da PICgenios, o PicsimLab utilizando o PIC18F4520. O intuito desse projeto foi consolidar o conteúdo teórico da disciplina de Programação Embarcada da Universidade Federal de Itajubá (Unifei), utilizando a Linguagem C.
+Neste projeto foram utilizados os softwares MPLAB X IDE v5.40, com o compilador XC8 v2.20 e o simulador da PICgenios, o PicsimLab v0.8.2 utilizando o PIC18F4520. O intuito desse projeto foi consolidar o conteúdo teórico da disciplina de Programação Embarcada da Universidade Federal de Itajubá (Unifei), utilizando a Linguagem C.
 
 Todas as bibliotecas necessárias para replicar o projeto estão junto à pasta do projeto, a autoria das bibliotecas bem como os direitos autorais estão asseguradas ao professor Rodrigo Maximiano Antunes de Almeida e ao criador do PicsimLab, Luis Claudio Gambôa Lopes.
 
