@@ -1,4 +1,4 @@
-# Projeto-Programacao-Embarcada-Placar-Futsal
+# Projeto de Programacao Embarcada - Placar Futsal
 
 ![placar](https://user-images.githubusercontent.com/73919181/101440594-d82e7b80-38f5-11eb-8108-bb7d62dcc340.png)
 
