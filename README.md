@@ -5,6 +5,9 @@
 Projeto final da disciplina de Programação Embarcada (ECOP04 e ECOP14) da Universidade Federal de Itajubá - 2020.
 Com orientação dos Professores [Otávio Gomes](https://github.com/osmgomes) e [Rodrigo Almeida](https://github.com/rmaalmeida), este projeto foi desenvolvido com intuito de colocar em prática os conteúdos aprendidos na disciplina.
 
+## Video com o Funcionamento do Placar
+Neste vídeo é possível conferir o funcionamento do Placar: https://youtu.be/xY7m5-8lA8U.
+
 ## Softwares Utilizados
 - MPLAB X IDE v5.40: Site para download https://www.microchip.com/development-tools/pic-and-dspic-downloads-archive.
 - XC8 Compiler v2.20: Site para download https://www.microchip.com/development-tools/pic-and-dspic-downloads-archive.
