@@ -4,7 +4,7 @@
 
    ########################################################################
 
-   Copyright (c) : 2015  Luis Claudio Gambôa Lopes
+   Copyright (c) : 2015  Luis Claudio GambÃ´a Lopes
 
    This program is free software; you can redistribute it and/or modify
    it under the terms of the GNU General Public License as published by
@@ -25,7 +25,7 @@
 
 #include <xc.h>
 #include "lcd.h"
-#include "atraso.h"
+#include "delay.h"
 
 void lcd_wr(unsigned char val)
 {
